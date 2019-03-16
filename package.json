@@ -1,8 +1,8 @@
 {
   "name": "serverless-http-echo",
   "version": "1.0.0",
-  "description": "Serverless webpack example using Typescript",
-  "main": "handler.js",
+  "description": "Echo API Gateway's request with AWS Serverless",
+  "main": "handler.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,6 +17,6 @@
     "typescript": "^3.2.4",
     "webpack": "^4.29.0"
   },
-  "author": "The serverless webpack authors (https://github.com/elastic-coders/serverless-webpack)",
+  "author": "lactrious@gmail.com",
   "license": "MIT"
 }
